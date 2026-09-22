@@ -2,7 +2,9 @@
   "version": "2.2.0",
   "title": "ShiyamsTech Diagnostic PRO v2.2 (Chip-Level Hardware Suite)",
   "release_date": "2026-09-22",
+  "downloadUrl": "https://github.com/ShiyamsTech/ShiyamsTech-DiagnosticPRO-Updates/releases/download/v2.2/ShiyamsTech.Diagnostic.PRO.v2.2.OTA.Setup.exe",
   "download_url": "https://github.com/ShiyamsTech/ShiyamsTech-DiagnosticPRO-Updates/releases/download/v2.2/ShiyamsTech.Diagnostic.PRO.v2.2.OTA.Setup.exe",
+  "url": "https://github.com/ShiyamsTech/ShiyamsTech-DiagnosticPRO-Updates/releases/download/v2.2/ShiyamsTech.Diagnostic.PRO.v2.2.OTA.Setup.exe",
   "mandatory": false,
   "changelog": [
     "Global Hardware Guard: All diagnostic modules locked until ShiyamsTech Box connects",
